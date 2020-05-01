@@ -16,7 +16,7 @@ If one of them can't be done, then fresh three actions are assigned to the perso
 * Current task is shown at the top of his/her head.
 * His current success is shown at the above of his/her head and right below his/her current task.
 * All his/her assigned tasks are shown at the lower left section of the screen.
-Note: If the current task is eye blinking, then the user must stable his/her head according to directions popped up at the top of the screen. If not, then the eye blinking does not count. His/her current angle and the range it is supposed to be in are shown in the message.
+Note: If the current task is eye blinking, then the user must stable his/her head according to directions popped up at the top of the screen. If not, then the eye blinking does not count. His/her current head angle and the range it is supposed to be in are shown in the message.
 
 ![unknown](https://user-images.githubusercontent.com/23126077/80846774-16541600-8c16-11ea-8f39-e6ce596dfb98.png)
 
@@ -27,3 +27,5 @@ Note: If the current task is eye blinking, then the user must stable his/her hea
 * numpy
 * scipy
  
+## Built With
+* [Python](https://www.python.org/)
